@@ -1,5 +1,5 @@
 from __future__ import division
-import luima_sbd.config as config
+import config as config
 import pycrfsuite
 import re
 import os
